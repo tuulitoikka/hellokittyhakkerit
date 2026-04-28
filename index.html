@@ -1,1 +1,31 @@
+<!DOCTYPE html>
+<html lang="fi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TIKOn KESÄKALENTERI 2026</title>
+    <link rel="stylesheet" href="tyyli.css">
+</head>
+<body>
+    <div class="container">
+        <h1>TIKOn KESÄKALENTERI 2026</h1>
+        <div class="calendar-grid" id="calendar"></div>
+        <button id="resetBtn" class="reset-button">Nollaa kalenteri</button>
+    </div>
 
+    <!-- sisältöikkunat? -->
+    <div class="modal" id="modal">
+        <div class="modal-content">
+            <img id="modalImage" src="" alt="Week image" class="modal-image">
+            <p id="modalText"></p>
+            <label class="checkbox-label">
+                <input type="checkbox" id="modalCheckbox">
+                Suoritettu
+            </label>
+            <button id="continueBtn" class="btn" disabled>Suoritettu</button>
+        </div>
+    </div>
+
+    <script src="kalenteri.js"></script>
+</body>
+</html>
