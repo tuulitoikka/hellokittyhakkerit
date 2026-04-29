@@ -16,13 +16,13 @@ const weeklyContent = [
     },
     {
         week: 4,
-        image: "",
-        text: ""
+        image: "gym.jpg",
+        text: "Kuntoiluviikko! Tule mukaan! Voit valita lenkkeilyn, pyöräilyn tai sali treenin. Tärkeintä on liikkua ja nauttia kesästä!"
     },
     {
         week: 5,
-        image: "",
-        text: ""
+        image: "ruisrock.jpg",
+        text: "Ruisrock 2026! Luvassa mahtavia esiintyjiä ja upeaa tunnelmaa!"
     },
     //lisää luukkuja ja voi olla mun mielestä eri järjestyksis vähä niiku joulukalenterissa. Muistakee laittaa toi oilkku ton } jäölkeenb
 ];
