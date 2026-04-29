@@ -21,7 +21,7 @@ const weeklyContent = [
     },
     {
         week: 5,
-        image: "ruisrock.jpg",
+        image: "ruisrock.png",
         text: "Ruisrock 2026! Luvassa mahtavia esiintyjiä ja upeaa tunnelmaa!"
     },
     //lisää luukkuja ja voi olla mun mielestä eri järjestyksis vähä niiku joulukalenterissa. Muistakee laittaa toi oilkku ton } jäölkeenb
