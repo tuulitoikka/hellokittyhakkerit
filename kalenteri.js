@@ -24,6 +24,11 @@ const weeklyContent = [
         image: "ruisrock.png",
         text: "Ruisrock 2026! Luvassa mahtavia esiintyjiä ja upeaa tunnelmaa!"
     },
+    {
+        week: 6,
+        image: "flow festival.jpg",
+        text: "Flow Festival 2026! Koe unohtumattomia musiikkielämyksiä Helsingin sydämessä!"
+    },
     //lisää luukkuja ja voi olla mun mielestä eri järjestyksis vähä niiku joulukalenterissa. Muistakee laittaa toi oilkku ton } jäölkeenb
 ];
 
