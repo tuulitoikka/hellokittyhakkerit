@@ -29,6 +29,21 @@ const weeklyContent = [
         image: "flow festival.jpg",
         text: "Flow Festival 2026! Koe unohtumattomia musiikkielämyksiä Helsingin sydämessä!"
     },
+    {
+        week:7,
+        image:"Hellokittylaivalla.png",
+        text: "Matka Ruotsiin Silja Line laivalla! Vietä ihana illallinen laivan ravintolassa ja nauti rentouttavasta matkasta!"
+    },
+    {
+        week: 8,
+        image:"Hellokittyruotsissa.png",
+        text: "Ruotsissa oleskelu. Käy mielenkiintoisissa museoissa ja tutustu kulttuuriin!"
+    },
+    {
+        week:9,
+        image:"Hellokittypiknikilla.png",
+        text:"Vietä rentauttava ja hauska piknik perheensä kanssa!"
+    },
     //lisää luukkuja ja voi olla mun mielestä eri järjestyksis vähä niiku joulukalenterissa. Muistakee laittaa toi oilkku ton } jäölkeenb
 ];
 
