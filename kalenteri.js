@@ -59,6 +59,11 @@ const weeklyContent = [
         image:"Hellokittykalastaminen.png",
         text:"Kokeile kalastamista ja nauti rauhallisesta päivästä luonnossa!"
     },  
+    {
+        week: 13,
+        image:"Hellokittyuimahalli.png",
+        text:"Koe hauska päivä uimahallissa ystävien kanssa!"
+    },
     //lisää luukkuja ja voi olla mun mielestä eri järjestyksis vähä niiku joulukalenterissa. Muistakee laittaa toi oilkku ton } jäölkeenb
 ];
 
