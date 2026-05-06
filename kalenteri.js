@@ -26,7 +26,7 @@ const weeklyContent = [
     },
     {
         week: 6,
-        image: "flow festival.jpg",
+        image: "flow festival.png",
         text: "Flow Festival 2026! Koe unohtumattomia musiikkielämyksiä Helsingin sydämessä!"
     },
     {
