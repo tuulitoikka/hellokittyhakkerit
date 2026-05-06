@@ -44,6 +44,21 @@ const weeklyContent = [
         image:"Hellokittypiknikilla.png",
         text:"Vietä rentauttava ja hauska piknik perheensä kanssa!"
     },
+    {
+        week:10,
+        image:"Hellokittyveneily.png",
+        text:"Vietä rentouttava ja hauska veneily perheesi kanssa!"
+    },
+    {
+        week:11,
+        image:"Hellokittypyorailu.png",
+        text:"Pyöräile ja nauti kesäisestä Ulkoilmasta!"
+    },
+    {
+        week:12,
+        image:"Hellokittykalastaminen.png",
+        text:"Kokeile kalastamista ja nauti rauhallisesta päivästä luonnossa!"
+    },  
     //lisää luukkuja ja voi olla mun mielestä eri järjestyksis vähä niiku joulukalenterissa. Muistakee laittaa toi oilkku ton } jäölkeenb
 ];
 
